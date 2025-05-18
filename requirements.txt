@@ -1,0 +1,17 @@
+## basic libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+
+## deep learning
+#torch
+#torchvision
+#tensorflow
+
+## additional
+#jupyterlab
+#seaborn
+#notebook
+#python-dotenv
